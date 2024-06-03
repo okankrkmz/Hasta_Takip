@@ -1,0 +1,3 @@
+Proje Visual Studio ve Microsoft SQL Server ile yapıldı. Veritabanına bağlanıp listeleme, ekleme,silme,güncelleme ve silme işlemlerini yapıyor.
+Username:admin	
+Password:1234
